@@ -1,0 +1,5 @@
+C:\Users\112\source\repos\Interfacehomework\Interfacehomework\obj\Debug\net7.0\Interfacehomework.csproj.AssemblyReference.cache
+C:\Users\112\source\repos\Interfacehomework\Interfacehomework\obj\Debug\net7.0\Interfacehomework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\112\source\repos\Interfacehomework\Interfacehomework\obj\Debug\net7.0\Interfacehomework.AssemblyInfoInputs.cache
+C:\Users\112\source\repos\Interfacehomework\Interfacehomework\obj\Debug\net7.0\Interfacehomework.AssemblyInfo.cs
+C:\Users\112\source\repos\Interfacehomework\Interfacehomework\obj\Debug\net7.0\Interfacehomework.csproj.CoreCompileInputs.cache
